@@ -1,0 +1,7 @@
+/.idea/
+*/.idea/
+*/.gradle/
+local.properties
+../local.properties
+../../local.properties
+./Android-Kotlin-Samples/local.properties
