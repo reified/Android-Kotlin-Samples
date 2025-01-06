@@ -17,3 +17,4 @@ rootProject.name = "Samples - reified.dev"
 
 include(":android-apps:template-app-module")
 include(":kotlin-samples:template-module")
+include(":design-patterns")
